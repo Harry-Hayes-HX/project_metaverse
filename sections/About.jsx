@@ -23,7 +23,11 @@ const About = () => (
         className="mt-[8px] font-normal sm:text-[32px] text-[20px] text-center text-secondary-white"
       >
         <span className="font-extrabold text-white">Talent League</span> Where Europe's R6 community excels. 
-        As one of the top EU community leagues, its our mission to unite passionate players and showcase their skills. From intense 
+        As one of the top EU community leagues, its our mission to unite{' '}  
+        <span className="font-extrabold text-white">
+        passionate 
+        </span>{' '}
+        players and showcase their skills. From intense 
         matches to a thriving community, we're more than just a league; Join us to{' '}  
         <span className="font-extrabold text-white">
         elevate

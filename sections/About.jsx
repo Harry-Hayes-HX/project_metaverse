@@ -33,6 +33,7 @@ const About = () => (
         elevate
         </span>{' '}
         Rainbow Six Siege in Europe, where Champions are forged. In Talent League, your journey to greatness begins.{' '}
+        
         <span className="font-extrabold text-white">#PRAISETALENT</span>
       </motion.p>
 

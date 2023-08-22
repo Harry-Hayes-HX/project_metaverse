@@ -18,11 +18,6 @@ const Hero = () => (
         <motion.h1 variants={textVariant(1.1)} className={styles.heroHeading}>
           Talent League
         </motion.h1>
-        <motion.div
-          variants={textVariant(1.2)}
-          className="flex flex-row justify-center items-center"
-        >
-        </motion.div>
       </div>
 
       <motion.div
